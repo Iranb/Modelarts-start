@@ -4,9 +4,9 @@ config = EasyDict()
 config.OBS_NAME = "ma-iranb"
 config.CODE_UPLOAD_URL = "obs://ma-iranb/free_train/"
 config.RUN_SCRIPT = "code/test.py"
-config.AK = "LHXULDXMBQ7KZF2Z5AGG"
-config.SK = "mYdC9OnGioLhzZs0lmiVQfi3PTzVOkeCZVojCrxL"
-config.PROJECT_ID = "0a9bd4035700103b2f7ec000f6853aed"
+config.AK = "your ak"
+config.SK = "your sk"
+config.PROJECT_ID = "your project id"
 config.REGION_NAME = 'cn-north-4' # do not change this line
 
 config.TRAIN = EasyDict()
